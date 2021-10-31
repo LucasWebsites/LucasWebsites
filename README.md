@@ -2,7 +2,7 @@
 
 💻 I'm a Front-end web developer, that is, a graphical user interface developer for a website, using ReactJs, NextJS, HTML, CSS and JavaScript languages.
 
-💻  Tecnologias que estudo:
+💻  Technologies that i use:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="llofyy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +13,7 @@
   <img align="center" alt="llofyy-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div><br>
 
-# 💻  Sobre mim:
+# 💻  About me:
 
 ```css
 #lucasvarela { 
@@ -22,13 +22,7 @@
   position: Brazil;
 }
 ```
-
-##
-
-🚀 Tecnologias que utilizo:
-
-🔵 VsCode / 🟠 Git/ ⚫ GitHub
-
+<br>
 
 <div>
   <a href="https://github.com/LucasWebsites">
