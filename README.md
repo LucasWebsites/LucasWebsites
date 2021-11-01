@@ -25,7 +25,7 @@
 <br>
 
 <div>
-  <a href="https://github.com/LucasWebsites">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasWebsites&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWebsites&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/varelalucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varelalucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varelalucas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
